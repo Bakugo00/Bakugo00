@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bakugo00
-- 👀 I’m interested in programming field
-- 🌱 I’m currently learning C programming language
+- 👋 Hi, I’m Bahaeddine
+- 👀 I’m interested in mobile developement
+- 🌱 I’m currently learning Flutter,Firebase
 - 📫 reache me in my email : bahaeddinebenotmane@gmail.com
 <!---
 Bakugo00/Bakugo00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
