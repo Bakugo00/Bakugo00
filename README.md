@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bahaeddine
-- 👀 I’m interested in mobile developement
-- 🌱 I’m currently learning Flutter,Firebase
+- 👀 I’m interested in Network and Systems
+- 🌱 I’m currently DevOps
 - 📫 reache me in my email : bahaeddinebenotmane@gmail.com
 - All my repos are private for now
 <!---
